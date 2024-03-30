@@ -3,24 +3,28 @@
 
 Final project for the Building AI course
 
-## Summary
+## OBJETO DEL PROYECTO
 
 Plataforma de gestión deL mantenimiento de edificios con IA para optimizar operaciones mediante sensores IoT que recopilan datos procesados por big data.
 
 
-## Background
+## ANTECEDENTES
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+El sector del mantenimiento y gestión de edificios e instalaciones evolucionará rápidamente gracias a la integración de la IA, utilizando las plataformas de software inteligentes, los sensores de IoT y los modelos de IA diseñados para extraer automáticamente información a partir de datos complejos y aprovecharlos para la toma de decisiones en tiempo real.
+Convertir grandes cantidades de datos en conocimientos prácticos hace que la IA pueda ayudar a tomar decisiones que ahorraran recursos, tiempo y dinero.
+Al integrar sistemas de monitoreo impulsados ​​por IA, se obtiene información en tiempo real sobre el estado operativo de las instalaciones del edificio.
+Mediante el mantenimiento preventivo y sensores se registran más datos de los que utilizan normalmente en un programa de gestión del mantenimiento asistido por ordenador. La IA maximiza la utilidad de esta gran cantidad de datos, extrayendo la información significativa de sus sensores y sistemas de monitoreo. 
+La IA puede monitorear y garantizar que las instalaciones cumplan con la normativa tecnico-legal de aplicación, notificando los plazos de las revisiones para evitar posibles incumplimientos de la normativa legal.
+La IA ayudará a predecir el fallo de instalaciones o equipos,y cuándo es necesario reemplazar una pieza, lo que permitirá un mantenimiento predictivo eficiente y un ahorro económico, evitando paradas no programadas en las instalaciones del edificio.
+Así se pueden optimizar las operaciones y desplegar los recursos de manera más eficiente, garantizando una productividad óptima.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+## COMO SE USA
 
-
-## How is it used?
-
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Utilizando la IA para monitorear las condiciones de los equipos y las instalaciones en tiempo real.
+Los equipos y activos están equipados con sensores que recopilan datos continuamente. La Ia procesa este flujo constante de información, identificando posibles problemas. 
+El monitoreo en tiempo real señala instantáneamente las posibles anomalías, permitiendo una atención y resolución inmediatas. Esto no sólo protege el equipo sino que también evita costosos tiempos de inactividad.
+La detección temprana conlleva un tiempo de inactividad significativamente menor y una mayor productividad.
+Los datos se recopilan y procesan en tiempo real, y se facilitan de forma inmediata a través de redes WIFI. 
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
