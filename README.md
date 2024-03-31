@@ -1,4 +1,3 @@
-
 # GESTIÓN DEL MANTENIMIENTO DE EDIFICIOS
 
 Final project for the Building AI course
