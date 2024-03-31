@@ -7,7 +7,6 @@ Final project for the Building AI course
 
 Plataforma de gestión deL mantenimiento de edificios con IA para optimizar operaciones mediante sensores IoT que recopilan datos procesados por big data.
 
-
 ## ANTECEDENTES
 
 El sector del mantenimiento y gestión de edificios e instalaciones evolucionará rápidamente gracias a la integración de la IA, utilizando las plataformas de software inteligentes, los sensores de IoT y los modelos de IA diseñados para extraer automáticamente información a partir de datos complejos y aprovecharlos para la toma de decisiones en tiempo real.
@@ -54,7 +53,7 @@ Investigación y desarrollo continuo: Continuar invirtiendo en investigación y 
 
 ## AGRADECIMIENTOS
 
-University of Helsinki
-IFMA, International Facility Management Association - Spain
-Google
+University of Helsinki.
+IFMA, International Facility Management Association - Spain.
+Google.
 Chat GPT 3.5
